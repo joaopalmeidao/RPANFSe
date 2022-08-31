@@ -1,0 +1,7 @@
+pyautogui
+pygetwindow
+unidecode
+datetime
+requests
+pdfplumber
+
