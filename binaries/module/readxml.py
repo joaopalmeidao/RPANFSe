@@ -292,7 +292,7 @@ class Read_xml():
             razaoSocial_forn = self.check_none(razaoSocial_forn, 0)
 
             if razaoSocial_forn == "":
-                razaoSocial_forn = "BOX DELIVERY DESENVOLVIMENTO DE SOFTWARE S.A."
+                razaoSocial_forn = ""
 
             endereco_forn = xml.getElementsByTagName("Logradouro")
             endereco_forn = self.check_none(endereco_forn, 0)
