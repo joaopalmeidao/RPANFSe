@@ -505,8 +505,6 @@ dos arquivos na pasta "arquivos".
                           height=1, anchor=NW, font=('Ivy 1 '), bg=blue)
         linelabel.pack()
 
-        # tree.bind('<<TreeviewSelect>>', item_selected)
-
         tree.grid(row=0, column=0, sticky='nsew')
         scrollbar = Scrollbar(infoframe, orient=VERTICAL, command=tree.yview)
         tree.configure(yscroll=scrollbar.set)
