@@ -21,7 +21,7 @@ icon_folder = r"binaries\\icon\\"
 help = "help"
 whatsapp = "https://api.whatsapp.com/send?phone=5531993702136"
 LinkedIn = "https://www.linkedin.com/in/jo%C3%A3o-pedro-a-oliveira-a51551237/"
-atlassian = "https://zedelivery.atlassian.net/servicedesk/customer/portal/5/group/18"
+atlassian = ""
 
 # ///////////////////////////////////////////////////////////////
 # OPEN THE BROWSER ATLASSIAN
