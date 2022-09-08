@@ -26,7 +26,7 @@ def consulta_cnpj(cnpj):
 
 if __name__ == "__main__":
     try:
-        consulta = consulta_cnpj('86368701000101')
+        consulta = consulta_cnpj('47193456000189')
         print(consulta['nome'])
 
         print(consulta)
